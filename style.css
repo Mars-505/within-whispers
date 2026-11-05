@@ -352,10 +352,11 @@
      font-family: 'Tajawal', sans-serif;
    }
 
- html[lang="ar"] * ,
+ html[lang="ar"] #unknown,
+ html[lang="ar"] #unknown* ,
  html[lang="ar"] a nav {
-    letter-spacing: normal !important;
-    word-spacing: normal;
+    letter-spacing: 0 !important;
+    word-spacing: 0 !important;
   }
 
    
