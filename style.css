@@ -352,6 +352,11 @@
      font-family: 'Tajawal', sans-serif;
    }
 
+ html[lang="ar"] * {
+    letter-spacing: normal !important;
+    word-spacing: normal;
+  }
+
    
 
 
