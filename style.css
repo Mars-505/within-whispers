@@ -311,6 +311,14 @@
   .lang-btn:hover {
      background: rgba(199, 199, 199, 0.25);
    }
+
+  html[lang="ar"] #unknown h2,
+html[lang="ar"] nav a {
+    letter-spacing: normal !important;
+    word-spacing: normal !important;
+    text-align: center;
+    white-space: normal;
+}
  }  
 
 
