@@ -331,7 +331,8 @@
   html[lang="ar"] h2 {
      font-size: 30px;
      font-weight: 500;
-     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-family: 'Tajawal', sans-serif;
+     letter-spacing: 0 !important;
    }
 
   html[lang="ar"] h3 {
@@ -350,15 +351,10 @@
      font-weight: 700;
      padding: 9px;
      font-family: 'Tajawal', sans-serif;
+     letter-spacing: 0 !important;
    }
 
- html[lang="ar"] #unknown,
- html[lang="ar"] #unknown* ,
- html[lang="ar"] a nav {
-    letter-spacing: 0 !important;
-    word-spacing: 0 !important;
-  }
-
+ 
    
 
 
