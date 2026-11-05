@@ -314,12 +314,11 @@
 
   html[lang="ar"] #unknown h2,
 html[lang="ar"] nav a {
-    letter-spacing: normal !important;
-    word-spacing: normal !important;
-    text-align: center;
-    white-space: normal;
+    font-family: Arial, sans-serif !important;
+    font-weight: 700;
+    letter-spacing: 0 !important;
 }
- }  
+ } 
 
 
    /* Arabic fonts */
