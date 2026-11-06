@@ -28,6 +28,10 @@
      transition: transform 0.3s ease;
    }
 
+   nav.hide {
+    transform: translateY(-100%);
+   }
+
    nav a {
      color: rgb(197, 195, 191);
      text-decoration: none;
@@ -35,10 +39,6 @@
      letter-spacing: 3px;
      text-transform: uppercase;
      transition: 0.3s;
-   }
-
-  nav.hide {
-    transform: translateY(-100%);
    }
 
    nav a:hover {
